@@ -1,3 +1,3 @@
- This is Simple Spring Framework Application with combination with Hibernate.
- Some Changes
-Some more Changes
+This is Simple Spring Framework Application with combination with Hibernate.
+Some Changes
+ Some more Changes
