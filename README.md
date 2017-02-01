@@ -1,5 +1,9 @@
-************Web Customer Tracker ***************
--WCT is simple project simulating the CRM application, which tracks information about the customers and also helps us to update and delete the existing customer.
--We have used Spring Framework with Hibernate to achieve this application, basic html and css with JSTL tag lib.
--
--The main objective is to understand the Spring MVC with Hibernate.
+************ Web Customer Tracker ***************
+
+
+
+WCT is small project simulating the CRM application, which helps in saving information about the customers by helping to list, update and delete the existing customers.
+
+I have made use of Spring MVC Framework addition to Hibernate with basic HTML and CSS with JSTL tag lib. to make the applicational functional.
+
+The main objective was to understand the Spring MVC + Hibernate with application of Annotations, ORM, Design Pattern, CRUD Operations.
